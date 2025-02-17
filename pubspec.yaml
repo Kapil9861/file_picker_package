@@ -1,7 +1,8 @@
 name: file_picker_package
 description: "A new Flutter project."
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
-
+homepage: https://github.com/Kapil9861/file_picker_package.git
+repository: https://github.com/Kapil9861/file_picker_package.git
 
 version: 1.0.0+1
 
